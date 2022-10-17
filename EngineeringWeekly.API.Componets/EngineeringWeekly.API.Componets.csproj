@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="CSVFile" Version="3.1.0" />
+		<PackageReference Include="FluentResults" Version="3.14.0" />
+		<PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
+		<PackageReference Include="RestSharp.Serializers.NewtonsoftJson" Version="108.0.2" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\EngineeringWeekly.DTOS\EngineeringWeekly.DTOS.csproj" />
+	</ItemGroup>
+</Project>

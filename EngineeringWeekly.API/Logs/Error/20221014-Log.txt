@@ -1,0 +1,18 @@
+2022-10-14 22:23:31.117 +00:00 EngineeringWeekly.API.Componets.Interfaces.IChuckNorrisJokeGetter
+{"Id":0,"SystemLogStatusId":4,"ReferenceId":null,"LogDetail":"","Class":"Unidentified class","Line":0,"StackTrace":"","InnerException":null}
+******************************************************************************************************************************************************
+2022-10-14 22:23:31.125 +00:00 CodeTest.Controllers.ChuckNorrisJokeGetterController
+{"Id":0,"SystemLogStatusId":4,"ReferenceId":null,"LogDetail":"","Class":"Unidentified class","Line":0,"StackTrace":"","InnerException":null}
+******************************************************************************************************************************************************
+2022-10-14 22:25:35.314 +00:00 EngineeringWeekly.API.Componets.Interfaces.IChuckNorrisJokeGetter
+{"Id":0,"SystemLogStatusId":4,"ReferenceId":null,"LogDetail":"","Class":"Unidentified class","Line":0,"StackTrace":"","InnerException":null}
+******************************************************************************************************************************************************
+2022-10-14 22:25:35.321 +00:00 CodeTest.Controllers.ChuckNorrisJokeGetterController
+{"Id":0,"SystemLogStatusId":4,"ReferenceId":null,"LogDetail":"","Class":"Unidentified class","Line":0,"StackTrace":"","InnerException":null}
+******************************************************************************************************************************************************
+2022-10-14 22:31:15.899 +00:00 EngineeringWeekly.API.Componets.Interfaces.IChuckNorrisJokeGetter
+{"Id":0,"SystemLogStatusId":4,"ReferenceId":null,"LogDetail":"ChuckNorrisJokeGetter::GetJoke:Not Found:No jokes for category \"no way\" found.","Class":"Unidentified class","Line":0,"StackTrace":"ChuckNorrisJokeGetter::GetJoke:Not Found:No jokes for category \"no way\" found.","InnerException":null}
+******************************************************************************************************************************************************
+2022-10-14 22:31:15.907 +00:00 CodeTest.Controllers.ChuckNorrisJokeGetterController
+{"Id":0,"SystemLogStatusId":4,"ReferenceId":null,"LogDetail":"ChuckNorrisJokeGetter::GetJoke:Not Found:No jokes for category \"no way\" found.","Class":"Unidentified class","Line":0,"StackTrace":"ChuckNorrisJokeGetter::GetJoke:Not Found:No jokes for category \"no way\" found.","InnerException":null}
+******************************************************************************************************************************************************

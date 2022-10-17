@@ -1,0 +1,24 @@
+2022-10-14 20:14:07.548 +00:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+{"Id":0,"SystemLogStatusId":3,"ReferenceId":3,"LogDetail":"Failed to determine the https port for redirect."}
+******************************************************************************************************************************************************
+2022-10-14 20:15:03.686 +00:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+{"Id":0,"SystemLogStatusId":3,"ReferenceId":3,"LogDetail":"Failed to determine the https port for redirect."}
+******************************************************************************************************************************************************
+2022-10-14 20:26:49.815 +00:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+{"Id":0,"SystemLogStatusId":3,"ReferenceId":3,"LogDetail":"Failed to determine the https port for redirect."}
+******************************************************************************************************************************************************
+2022-10-14 20:28:39.445 +00:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+{"Id":0,"SystemLogStatusId":3,"ReferenceId":3,"LogDetail":"Failed to determine the https port for redirect."}
+******************************************************************************************************************************************************
+2022-10-14 22:22:35.448 +00:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+{"Id":0,"SystemLogStatusId":3,"ReferenceId":3,"LogDetail":"Failed to determine the https port for redirect."}
+******************************************************************************************************************************************************
+2022-10-14 22:24:46.758 +00:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+{"Id":0,"SystemLogStatusId":3,"ReferenceId":3,"LogDetail":"Failed to determine the https port for redirect."}
+******************************************************************************************************************************************************
+2022-10-14 22:29:03.892 +00:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+{"Id":0,"SystemLogStatusId":3,"ReferenceId":3,"LogDetail":"Failed to determine the https port for redirect."}
+******************************************************************************************************************************************************
+2022-10-14 22:31:10.370 +00:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware
+{"Id":0,"SystemLogStatusId":3,"ReferenceId":3,"LogDetail":"Failed to determine the https port for redirect."}
+******************************************************************************************************************************************************
